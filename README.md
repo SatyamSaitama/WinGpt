@@ -1,5 +1,5 @@
 # WinGpt - The All-in-One Windows AI Assistant #
-[Demo video of tic tac toe](https://drive.google.com/file/d/1ohDpQ5fKtSelQt6HmXC380XSq9e2OAXu/view?usp=sharing)
+[WinGPT DEMO(Creates a working tic toe game)](https://drive.google.com/file/d/1ohDpQ5fKtSelQt6HmXC380XSq9e2OAXu/view?usp=sharing)
 ## Overview
 
 WinGpt is an extraordinary AI assistant for Windows that goes beyond code generation. It's a versatile and powerful assistant capable of performing a wide array of tasks, from code generation to system automation and natural language understanding. With WinGpt, the possibilities are limitless.
