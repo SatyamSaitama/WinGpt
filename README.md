@@ -1,5 +1,5 @@
-# WinGpt - The All-in-One Windows AI Assistant
-
+# WinGpt - The All-in-One Windows AI Assistant #
+- [![Screenshot 5](https://clipchamp.com/watch/25xqX8JSKQr)
 ## Overview
 
 WinGpt is an extraordinary AI assistant for Windows that goes beyond code generation. It's a versatile and powerful assistant capable of performing a wide array of tasks, from code generation to system automation and natural language understanding. With WinGpt, the possibilities are limitless.
