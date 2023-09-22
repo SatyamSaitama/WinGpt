@@ -1,5 +1,5 @@
 # WinGpt - The All-in-One Windows AI Assistant
-- ![Watch the WinGpt Demo Video](assests/Tic%20Tac%20Toe.mp4)
+[Watch the WinGpt Demo Video](https://github.com/SatyamSaitama/WinGpt/raw/main/assests/Tic%20Tac%20Toe.mp4)
 ## Overview
 
 WinGpt is an extraordinary AI assistant for Windows that goes beyond code generation. It's a versatile and powerful assistant capable of performing a wide array of tasks, from code generation to system automation and natural language understanding. With WinGpt, the possibilities are limitless.
