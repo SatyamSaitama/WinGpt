@@ -1,6 +1,6 @@
 # WinGpt - The All-in-One Windows AI Assistant
 <video width="560" height="315" controls>
-  <source src="https://github.com/SatyamSaitama/WinGpt/raw/main/assests/Tic%20Tac%20Toe.mp4" type="video/mp4">
+  <source src="./assests/Tic%20Tac%20Toe.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 ## Overview
