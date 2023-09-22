@@ -31,10 +31,11 @@ WinGpt is an extraordinary AI assistant for Windows that goes beyond code genera
 
 5. **Multilingual Interaction**:
    - Communicate with WinGpt in different languages, including speaking in Japanese.
-6. **It can even speak if you ask it to**
-## Installation
+6. **It can even speak if you ask it to 😊**
+## Installations
 
-1. **Clone this repository**:
+1. **To run the app**:
 
    ```bash
-   git clone https://github.com/SatyamSaitama/WinGpt
+   flask run
+   
