@@ -41,5 +41,4 @@ To use WinGpT in your project, follow these steps:
 2. Install dependencies: `pip install requirements.txt`
 
 3. Start the chat application: `flask run` 
-   flask run
    
