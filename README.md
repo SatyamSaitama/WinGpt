@@ -34,9 +34,9 @@ WinGpt is an extraordinary AI assistant for Windows that goes beyond code genera
 6. **It can even speak if you ask it to 😊**
    
 ## Getting Started
-To use ChatBotX in your project, follow these steps:
+To use WinGpT in your project, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/SatyamSaitama/GraphicGPT.git`
+1. Clone this repository: `git clone https://github.com/SatyamSaitama/WinGPT.git`
 
 2. Install dependencies: `pip install requirements.txt`
 
