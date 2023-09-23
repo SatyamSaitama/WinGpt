@@ -32,10 +32,14 @@ WinGpt is an extraordinary AI assistant for Windows that goes beyond code genera
 5. **Multilingual Interaction**:
    - Communicate with WinGpt in different languages, including speaking in Japanese.
 6. **It can even speak if you ask it to 😊**
-## Installations
+   
+## Getting Started
+To use ChatBotX in your project, follow these steps:
 
-1. **To run the app**:
+1. Clone this repository: `git clone https://github.com/SatyamSaitama/GraphicGPT.git`
 
-   ```bash
+2. Install dependencies: `pip install requirements.txt`
+
+3. Start the chat application: `flask run` 
    flask run
    
