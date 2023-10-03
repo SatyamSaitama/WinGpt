@@ -32,7 +32,7 @@ WinGpt is an extraordinary AI assistant for Windows that goes beyond code genera
 5. **Multilingual Interaction**:
    - Communicate with WinGpt in different languages, including speaking in Japanese.
 6. **It can even speak if you ask it to 😊**
-7. **Infinite 🚀 Possibilities**: Once, my friend challenged me, 'Can this assistant 🤖 get your WiFi details like IP address, connected devices, and passwords?' The answer is yes, it can. Even if you provide your Instagram credentials, it will log in for you. You may ask it to do something like liking every second post. It can actually do it. Please use it to explore the capabilities of AI, but don't misuse it.
+7. **Infinite 🚀 Possibilities**: Once, my friend challenged me, 'Can this assistant 🤖 get your WiFi details like IP address, connected devices, and passwords?' The answer is yes, it can. If you provide your Instagram credentials, it will log in for you. You may ask it to do something like liking every second post. It can actually do it. Please use it to explore the capabilities of AI, but don't misuse it ⚠️.
 
    
    
